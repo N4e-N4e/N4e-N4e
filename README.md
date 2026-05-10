@@ -20,7 +20,7 @@
 
 🌟 I seek no gold, no glory. Only a worthy quest, a place where data is valued, where insights drive decisions, and where I may continue to grow my craft alongside fellow seekers of knowledge.
 
-🎮 And when the sun sets and the fires burn low... you may find me in the raids of **Destiny 2** and **World of Warcraft**, coordinating with warriors from across the realm to conquer what others dare not attempt. For great battles, like great data problems, require **strategy, communication, and the courage to never wipe on the last boss.**
+🎮 And when the sun sets and the fires burn low... you may find me in the raids of **Destiny 2** and **World of Warcraft**, coordinating with warriors from across the realm to conquer what others dare not attempt. For great battles, like great data problems, require **strategy, communication, and the courage to never wipe on the last boss phase.**
 
 ---
 
