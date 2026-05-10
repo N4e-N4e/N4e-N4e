@@ -1,7 +1,6 @@
 <div align="center">
 
-# *"Hello there, fellow young traveler..."* 🧙‍♂️
-## *"...would you like to hear a tale as old as time?"* ✨
+*"Hello there, fellow young traveler... would you like to hear a tale as old as time?"* 🧙‍♂️✨
 
 </div>
 
@@ -13,19 +12,23 @@
 
 ---
 
-🧙‍♂️ I am **Narsim**, a wandering wizard of data, having journeyed far across the lands of healthcare, transportation, and the arcane arts of artificial intelligence. Many moons have passed since I first gazed into the depths of a dataset and saw not chaos, but patterns. Not noise, but stories waiting to be told.
+🧙‍♂️ I am **N4e-N4e**, a wandering wizard of data, having journeyed far across the lands of healthcare, transportation, and the arcane arts of artificial intelligence. Many moons have passed since I first gazed into the depths of a dataset and saw not chaos, but patterns. Not noise, but stories waiting to be told.
 
-⚗️ I have spent years honing my craft — summoning insights from the most treacherous of imbalanced datasets, building pipelines that flow like rivers through the mountains, and even constructing a mystical MCP server, bound to an LLM, capable of retrieving knowledge from the ancient scrolls of government websites to aid investigators in their quest against fraud.
+⚗️ I have spent years honing my craft, summoning insights from the most treacherous of imbalanced datasets, building pipelines that flow like rivers through the mountains, and even constructing a mystical MCP server, bound to an LLM, capable of retrieving knowledge from the ancient scrolls of government websites to aid investigators in their quest against fraud.
 
-⚔️ My tools are many — **Python, SQL, R**, and the dark arts of **machine learning**. My dashboards illuminate the truth for those who seek it, whether they be wizards of finance, knights of operations, or lords of healthcare.
+⚔️ My tools are many - **Python, SQL, R**, and the dark arts of **machine learning**. My dashboards illuminate the truth for those who seek it, whether they be wizards of finance, knights of operations, or lords of healthcare.
 
-🌟 I seek no gold, no glory. Only a worthy quest — a place where data is valued, where insights drive decisions, and where I may continue to grow my craft alongside fellow seekers of knowledge.
+🌟 I seek no gold, no glory. Only a worthy quest, a place where data is valued, where insights drive decisions, and where I may continue to grow my craft alongside fellow seekers of knowledge.
 
 🎮 And when the sun sets and the fires burn low... you may find me in the raids of **Destiny 2** and **World of Warcraft**, coordinating with warriors from across the realm to conquer what others dare not attempt. For great battles, like great data problems, require **strategy, communication, and the courage to never wipe on the last boss.**
 
 ---
 
-> *"So tell me, young traveler... are you in need of a data wizard?"* 🧙‍♂️✨
+<div align="center">
+
+*"So tell me, young traveler... are you in need of a data wizard?"* 🧙‍♂️✨
+
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narsim-kamath-385113253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narsimkamath@gmail.com) 
