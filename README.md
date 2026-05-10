@@ -14,7 +14,7 @@
 
 🧙‍♂️ I am **N4e-N4e**, a wandering wizard of data, having journeyed far across the lands of healthcare, transportation, and the arcane arts of artificial intelligence. Many moons have passed since I first gazed into the depths of a dataset and saw not chaos, but patterns. Not noise, but stories waiting to be told.
 
-⚗️ I have spent years honing my craft, summoning insights from the most treacherous of imbalanced datasets, building pipelines that flow like rivers through the mountains, and even constructing a mystical MCP server, bound to an LLM, capable of retrieving knowledge from the ancient scrolls of government websites to aid investigators in their quest against fraud.
+⚗️ I have spent years honing my craft by summoning insights from the most treacherous of imbalanced datasets, building pipelines that flow like rivers through the mountains, and even constructing a mystical MCP server, bound to an LLM, capable of retrieving knowledge from the ancient scrolls of government websites to aid adventurers in their quest.
 
 ⚔️ My tools are many - **Python, SQL, R**, and the dark arts of **machine learning**. My dashboards illuminate the truth for those who seek it, whether they be wizards of finance, knights of operations, or lords of healthcare.
 
